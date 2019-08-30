@@ -1,5 +1,7 @@
 This is supplementary material for the RBD try-to-be-tutorial for Houdini that can be found here:
-#### Part 1: https://vimeo.com/243886050
+
+###
+# Part 1: https://vimeo.com/243886050
 
 ## Part 1
 
